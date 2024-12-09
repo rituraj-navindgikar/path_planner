@@ -1,3 +1,0 @@
-[console_scripts]
-tester = path_test.tester:main
-
